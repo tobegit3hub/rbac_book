@@ -1,2 +1,6 @@
-# rbac_book
-The RBAC book about authentication and authorization
+# RBAC Book
+
+## 关于这本书
+
+介绍多租户系统下，认证和授权等功能的架构与实现。
+
